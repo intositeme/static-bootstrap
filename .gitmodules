@@ -1,0 +1,3 @@
+[submodule "cruc-admin"]
+	path = cruc-admin
+	url = https://github.com/intositeme/crud-admin-generator
