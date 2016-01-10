@@ -1,3 +1,3 @@
-# Static Copy of [BootStrap](https://help.github.com/desktop/guides/getting-started/authenticating-to-github/) v3.3.6
+# Static Copy of [BootStrap](http://getbootstrap.com/) v3.3.6
 
 For quick usage without setup.
